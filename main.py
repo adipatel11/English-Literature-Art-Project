@@ -13,6 +13,8 @@ import time
     Use arrow keys to move the flea
 
     Enjoy!
+    
+    YouTube inspiration: https://www.youtube.com/watch?v=jO6qQDNa2UY&t=2833s
 
 """
 pygame.init() #to initialize fonts and stuff
